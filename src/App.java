@@ -3,7 +3,10 @@ public class App {
         // System.out.println("Hello, World!");
         		
         
-        TelaSoma objTelaSoma = new TelaSoma  ("soma");
+        // TelaSoma objTelaSoma = new TelaSoma  ("soma");
+
+         soma objSoma = new soma  ("soma");
+
     }
 }
 
